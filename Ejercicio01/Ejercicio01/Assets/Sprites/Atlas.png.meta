@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 8050052b4435c1c4c9dded45ba4d127f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabeza
+    21300002: Item
+    21300004: Cuerpo
+    21300006: OrejaDerecha
+    21300008: piernaInferiorB
+    21300010: pataSuperiorDerecha
+    21300012: PataInferiorA
+    21300014: BloqueLargo
+    21300016: BloqueCorto
+    21300018: pataSuperiorB
+    21300020: BloqueMediano
+    21300022: OrejaIzquierda
+    21300024: ColaA
+    21300026: ColaB
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 103
+        height: 84
+      alignment: 9
+      pivot: {x: 0.41073626, y: 0.07586461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92594bd37154249aaea26b2c631b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 172
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d975985f1384446b68225987f70685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c78f3dc8af624b9c403dc2d57396e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrejaDerecha
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.67488897, y: 0.12989616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8d63079a36e047ae3ed127997203d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piernaInferiorB
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47493935, y: 0.45373535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171075878b89e9b4e947e3bfe072731d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pataSuperiorDerecha
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52736354, y: 0.88958347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4dbfb48f132eb498392a18d4495417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataInferiorA
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.88309044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cae7775e4a774eb7c05d0d316638a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueLargo
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 825
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730ecc73e144e24ea10fbc4abeb5068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueCorto
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da40ef71e22b6d48b73f7844c014064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pataSuperiorB
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 114
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5999371, y: 0.8656776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46a8d4a329f614e8dff03525acf457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueMediano
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfc75fa373c22c41b507b89b0f2648f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrejaIzquierda
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5907336, y: 0.13944499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7d606f721ff943b70edaef3474f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaA
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 173
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.81548715, y: 0.8405253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413eca2468ba04459e5c038ea01fda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaB
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 52
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8757242, y: 0.68388426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f06c1d7d914641bed78160f8d34dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9035fbd96799dd742bb4aad8dfb8942f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
